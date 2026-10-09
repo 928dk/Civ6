@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Vinterhav map mod: en_US localization strings.
+     Root must be <GameData> (loader requires GameData/GameInfo/Database entry
+     tag); per-row Language="en_US" matches the LocalizedText table shape. -->
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_MAP_VINTERHAV_NAME" Language="en_US">
+            <Text>Vinterhav</Text>
+        </Row>
+        <Row Tag="LOC_MAP_VINTERHAV_DESCRIPTION" Language="en_US">
+            <Text>A hand-shaped fantasy-Scandinavia (84x54, no wrap). The human homeland is a hand-engraved OP river-delta cape; the AI hemispheres run cold and sparse.</Text>
+        </Row>
+    </LocalizedText>
+</GameData>

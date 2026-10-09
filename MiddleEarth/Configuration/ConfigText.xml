@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Middle-earth map mod: en_US localization strings.
+     Root must be <GameData> (loader requires GameData/GameInfo/Database entry
+     tag); per-row Language="en_US" matches the LocalizedText table shape. -->
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_MAP_MIDDLEEARTH_NAME" Language="en_US">
+            <Text>Middle-earth</Text>
+        </Row>
+        <Row Tag="LOC_MAP_MIDDLEEARTH_DESCRIPTION" Language="en_US">
+            <Text>A hand-shaped Middle-earth (106x66, no wrap). The human starts as Gondor on a hand-engraved OP homeland; Rohan, Lothlórien, Erebor, the Shire, Mordor, Harad and Rhûn get scripted starts; Mount Doom burns in Mordor and Aman waits on a separate western continent.</Text>
+        </Row>
+    </LocalizedText>
+</GameData>

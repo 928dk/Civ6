@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Middle-earth map mod: FrontEnd action — register the map in the Maps table.
+     PK is (Domain, File); Domain must be 'StandardMaps' for the setup screen.
+     DisableWorldWrap is belt-and-braces alongside GetMapInitData WrapX=false. -->
+<GameInfo>
+    <Maps>
+        <Row Domain="StandardMaps" File="MiddleEarth.lua"
+             Name="LOC_MAP_MIDDLEEARTH_NAME"
+             Description="LOC_MAP_MIDDLEEARTH_DESCRIPTION"
+             DisableWorldWrap="1"
+             SortIndex="46"/>
+    </Maps>
+</GameInfo>
